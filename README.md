@@ -74,13 +74,14 @@ Make sure you have Node.js and npm installed.
 - Click the "Return" button to mark a book as returned.
 - Click the "Delete" button to remove a book from the collection.
 
-## Demo Video
+## Demo
 
-Watch the demo video below to see how the Book Management System works:
+Watch the demo below :
 
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
+<video controls>
+  <source src="Screenshot 2024-07-09 212631.png" type="image/png">
   Your browser does not support the video tag.
 </video>
+
 
 
